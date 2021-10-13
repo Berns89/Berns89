@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Berns89
 - 👀 I’m interested in Javascript, Angular, Cypress, Sailsjs, Bash, Postgress and Docker.
 - 🌱 I’m currently learning Cypress, Docker, FakerJs.
-- 💞️ I’m looking to collaborate on CI/CD with Cypress, Docker and Coeship
+- 💞️ I’m looking to collaborate on CI/CD with Cypress, Docker and Codeship
 - 📫 How to reach me: berns@qvalia.com
 
 <!---
