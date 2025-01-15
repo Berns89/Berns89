@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berns89
-- 👀 I’m interested in Javascript, Angular, Playwright, Bash, Postgress and AWS.
+- 👀 I’m interested in Javascript, Python, Playwright, Bash, Postgress and AWS.
 - 📫 How to reach me: berns@qvalia.com
 
 <!---
